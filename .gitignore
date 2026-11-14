@@ -1,0 +1,11 @@
+# Arquivos gerados pelo .NET
+**/bin/
+**/obj/
+
+# Banco SQLite local
+**/*.db
+**/*.db-shm
+**/*.db-wal
+
+# Arquivos locais do Visual Studio
+.vs/
